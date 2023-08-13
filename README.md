@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh Yadav</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">An avid Android developer specializing in Flutter and Dart. My journey involves sculpting seamless mobile experiences, merging pixel-perfect designs with efficient coding. With an insatiable curiosity, I'm dedicated to both mastering my craft and pushing boundaries. Let's team up and turn ideas into reality!!!</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18nlF-xqUWiOpa5jGY7DRUTie5NkfHnYU/view?usp=sharing](https://drive.google.com/file/d/18nlF-xqUWiOpa5jGY7DRUTie5NkfHnYU/view?usp=sharing)
 
